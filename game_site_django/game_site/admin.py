@@ -1,0 +1,44 @@
+from django.contrib import admin
+from .models import (
+    Platform,
+    Store,
+    Size,
+    Developer,
+    Publisher,
+    DLC,
+    GameMode,
+    License,
+    SystemRequirement,
+    Review,
+    Multimedia,
+    Status,
+    SalesHistory,
+    GameLog,
+    Rating,
+    OnlineStatus,
+    Award,
+    Language,
+    Genre,
+    Game
+)
+
+admin.site.register(Platform)
+admin.site.register(Store)
+admin.site.register(Size)
+admin.site.register(Developer)
+admin.site.register(Publisher)
+admin.site.register(DLC)
+admin.site.register(GameMode)
+admin.site.register(License)
+admin.site.register(SystemRequirement)
+admin.site.register(Review)
+admin.site.register(Multimedia)
+admin.site.register(Status)
+admin.site.register(SalesHistory)
+admin.site.register(GameLog)
+admin.site.register(Rating)
+admin.site.register(OnlineStatus)
+admin.site.register(Award)
+admin.site.register(Language)
+admin.site.register(Genre)
+admin.site.register(Game)
