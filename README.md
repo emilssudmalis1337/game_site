@@ -42,7 +42,7 @@ Projektā nav izmantotas trešo pušu bibliotēkas, taču ir izmantoti vairāki 
 
 Arhitektūras diagramma un apraksts:
 
-<img width="759" height="400" alt="image" src="https://github.com/user-attachments/assets/273303c3-1145-49e6-9e59-b054b406d9fa" />
+<img width="759" height="400" alt="image" src="https://github.com/user-attachments/assets/273303c3-1145-49e6-9e59-b054b406d9fa" />  
 Šajā diagrammā attēloti galvenie sistēmas moduļi, kas izpilda atbilstošās prasības. Kopumā sistēmā ir 9 šādi moduļi, kas katrs atbild par savu funkcionalitāti, piemēram, modulis P1.1 "Lietotāja konta reģistrācija" atbild par jauna lietotāja reģistrāciju un pievienošanu datu bāzes Users tabulai, bet modulis P2.3 "Spēles dzēšana" atbild par jau eksistējošas spēles izdzēšanu no datu bāzes.
 
 Idejas nākotnes uzlabojumiem:
