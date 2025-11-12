@@ -2,26 +2,26 @@ Komandas dalībnieki: Sudmalis, Berbeņovs
 
 Projekta nosaukums: Videospēļu datubāzes sistēma "GameSite"
 
-Lietotnes apraksts: GameSite ir tīmekļa lietotne, kas ļauj lietotājiem:
+Lietotnes apraksts: GameSite ir tīmekļa lietotne, kas ļauj lietotājiem:  
 
-Apskatīt videospēļu katalogu ar detalizētu informāciju;
-Meklēt un filtrēt spēles pēc dažādiem kritērijiem;
-Pārvaldīt spēļu saturu (izstrādātājiem un administratoriem).
+Apskatīt videospēļu katalogu ar detalizētu informāciju;  
+Meklēt un filtrēt spēles pēc dažādiem kritērijiem;  
+Pārvaldīt spēļu saturu (izstrādātājiem un administratoriem).  
 
-Instalēšanas instrukcijas:
+Instalēšanas instrukcijas:  
 
-Lejupielādēt projektu kā ZIP failu no GitHub;
-Atzipot mapi lietotājam ērtā lokācijā;
-Pārbaudīt, vai ir instalētas visas nepieciešamās programmas: python, git, uv, kā arī Django. 
-Ja tās nav instalētas, nepieciešams tās uzinstalēt, aplūkojot attiecīgo dokumentāciju.
-Atvērt cmd;
-Izmantojot python venv moduli, izveidot jaunu virtuālo vidi: python -m venv <virtuālās_vides_lokācija>
-Palaist komandu cd <virtuālās_vides_lokācija>\Scripts\Activate
-Palaist komandu cd <atzipotās_mapes_lokācija>\game_site-main\game_site_django
-Palaist komandu python manage.py makemigrations
-Palaist komandu python manage.py migrate
-Palaist komandu python manage.py runserver
-Web aplikāciju iespējams lietot, pārlukprogrammā atverot URL 127.0.0.1:8000 vai localhost:8000
+Lejupielādēt projektu kā ZIP failu no GitHub;  
+Atzipot mapi lietotājam ērtā lokācijā;  
+Pārbaudīt, vai ir instalētas visas nepieciešamās programmas: python, git, uv, kā arī Django.   
+Ja tās nav instalētas, nepieciešams tās uzinstalēt, aplūkojot attiecīgo dokumentāciju.  
+Atvērt cmd;  
+Izmantojot python venv moduli, izveidot jaunu virtuālo vidi: python -m venv <virtuālās_vides_lokācija>  
+Palaist komandu cd <virtuālās_vides_lokācija>\Scripts\Activate  
+Palaist komandu cd <atzipotās_mapes_lokācija>\game_site-main\game_site_django  
+Palaist komandu python manage.py makemigrations  
+Palaist komandu python manage.py migrate  
+Palaist komandu python manage.py runserver  
+Web aplikāciju iespējams lietot, pārlukprogrammā atverot URL 127.0.0.1:8000 vai localhost:8000  
 
 Ekrānšāviņi un īss apraksts:
 
